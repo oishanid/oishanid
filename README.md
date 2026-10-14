@@ -1,7 +1,14 @@
-## Hey there, I'm Oishani! 👋
+<h1 align="center">Hi, I'm Oishani!👋</h1>
 
-Hello! I'm a junior at IMSA interested in computer science and AI!
+<p align="center">I'm a junior at IMSA interested in computer science and AI!</p>
+<div align="center">
+  <a href="mailto:odey@imsa.edu">odey@imsa.edu</a>
+</div>
 
-**Tools & Languages:**
+<h2 align="center">Languages & Stuff:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,java,git,github,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,py,java,git,github,vscode,idea,notion" />
+  </a>
+</p>
